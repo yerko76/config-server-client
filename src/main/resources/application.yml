@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: configclient
+  cloud:
+    config:
+      uri:
+
+server:
+  port: 8090
